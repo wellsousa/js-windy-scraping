@@ -1,0 +1,12 @@
+{
+  "name": "js-windy-scraping",
+  "version": "1.0.0",
+  "description": "this project implements a web scraping with puppeteer for windy.com",
+  "main": "index.js",
+  "repository": "https://github.com/wellsousa/js-windy-scraping.git",
+  "author": "wellington de sousa reis <wellsousa1987@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
+}
